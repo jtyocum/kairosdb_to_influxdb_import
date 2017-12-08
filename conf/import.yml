@@ -1,6 +1,6 @@
-influxdb_host: toto.deohs.washington.edu
+influxdb_host: localhost
 influxdb_port: 8086
 influxdb_user: root
 influxdb_pass: root
-influxdb_db: import6
+influxdb_db: importeddb
 export_path: export.txt
